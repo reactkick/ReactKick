@@ -19,6 +19,7 @@ All commands are run from the root of the project, from a terminal:
 
 ## Deploying to Netlify
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f6894acd-04f6-4a98-9423-165db51b900e/deploy-status)](https://app.netlify.com/projects/reactkick/deploys)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10561/badge)](https://www.bestpractices.dev/projects/10561)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
 
 ## Developing Locally
