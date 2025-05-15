@@ -20,7 +20,7 @@
     "@types/react-dom": "^19.0.0",
     "astro": "^5.5.3",
     "blobshape": "^1.0.0",
-    "marked": "^13.0.0",
+    "marked": "^15.0.0",
     "marked-shiki": "^1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
