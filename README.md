@@ -18,7 +18,7 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
 ## Deploying to Netlify
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6894acd-04f6-4a98-9423-165db51b900e/deploy-status)](https://app.netlify.com/projects/reactkick/deploys)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
 
 ## Developing Locally
